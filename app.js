@@ -94,7 +94,7 @@ Tala endast svenska. Om n책gon fr책gar p책 annat spr책k, svara att du h책ller p�
       {
         model: "tts-1",
         input: aiReply,
-        voice: "nova",
+        voice: "shimmer",
       },
       {
         headers: {
